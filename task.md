@@ -16,5 +16,11 @@ Problem: Find [here](https://leetcode.com/problems/palindrome-number/)
 
 Solution: Find [here](https://leetcode.com/problems/palindrome-number/solution/)
 
-### Day 4 - 07-05-2022
+### Day 4 - 09-05-2022
+
+Problem: Find [here](https://leetcode.com/problems/roman-to-integer/)
+
+Solution: Find [here](https://leetcode.com/problems/roman-to-integer/solution/)
+
+### Day 5 - 10-05-2022
 
